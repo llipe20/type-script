@@ -1,7 +1,7 @@
 /* 
     Como instalar TS nos projetos
 
-    1. No terminal use o comando "npm run install typescript --save dev" para baixar o tc
+    1. No terminal use o comando "npm install typescript --save-dev" para baixar o tc
     2. Criar o arquivo de config. "npx tsc --init"
     3. No arquivo de config. use Ctrl + F e pesquise por OutDir, habilite essa config com o valor "./dist"
     4. Pronto, comece a codar com a extensão ts nos arquivos. Para compilar use no terminal "npx tsc"
